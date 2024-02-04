@@ -1,0 +1,82 @@
+const data = [
+    {
+        "video_id": "9gGnTQTYNaE",
+        "video_title": "What is Machine Learning?",
+        "published_at": "2021-07-14T14:07:15Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/9gGnTQTYNaE/default.jpg",
+        "Total comments": 30,
+        "Positive comments": 66.66666666666666,
+        "Neutral comments": 26.666666666666668,
+        "Negative comments": 6.666666666666667
+    },
+    {
+        "video_id": "4RixMPF4xis",
+        "video_title": "AI vs Machine Learning",
+        "published_at": "2023-04-10T11:00:03Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/4RixMPF4xis/default.jpg",
+        "Total comments": 341,
+        "Positive comments": 58.94428152492669,
+        "Neutral comments": 33.43108504398827,
+        "Negative comments": 7.624633431085044
+    },
+    {
+        "video_id": "ukzFI9rgwfU",
+        "video_title": "Machine Learning | What Is Machine Learning? | Introduction To Machine Learning | 2021 | Simplilearn",
+        "published_at": "2018-09-19T14:57:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/ukzFI9rgwfU/default.jpg",
+        "Total comments": 732,
+        "Positive comments": 56.4207650273224,
+        "Neutral comments": 37.56830601092896,
+        "Negative comments": 6.0109289617486334
+    },
+    {
+        "video_id": "PeMlggyqz0Y",
+        "video_title": "Machine Learning Explained in 100 Seconds",
+        "published_at": "2021-09-09T17:31:56Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/PeMlggyqz0Y/default.jpg",
+        "Total comments": 356,
+        "Positive comments": 53.93258426966292,
+        "Neutral comments": 39.8876404494382,
+        "Negative comments": 6.179775280898876
+    },
+    {
+        "video_id": "i_LwzRVP7bg",
+        "video_title": "Machine Learning for Everybody \u2013 Full Course",
+        "published_at": "2022-09-26T16:00:28Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/i_LwzRVP7bg/default.jpg",
+        "Total comments": 696,
+        "Positive comments": 53.01724137931034,
+        "Neutral comments": 36.49425287356322,
+        "Negative comments": 10.488505747126437
+    },
+    {
+        "video_id": "JxgmHe2NyeY",
+        "video_title": "Complete Machine Learning In 6 Hours| Krish Naik",
+        "published_at": "2022-05-28T04:37:31Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/JxgmHe2NyeY/default.jpg",
+        "Total comments": 230,
+        "Positive comments": 52.17391304347826,
+        "Neutral comments": 41.30434782608695,
+        "Negative comments": 6.521739130434782
+    },
+    {
+        "video_id": "C6YtPJxNULA",
+        "video_title": "All About Machine Learning & Deep Learning in 2024 \ud83d\udd25",
+        "published_at": "2023-12-01T13:30:07Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/C6YtPJxNULA/default.jpg",
+        "Total comments": 515,
+        "Positive comments": 52.038834951456316,
+        "Neutral comments": 45.63106796116505,
+        "Negative comments": 2.3300970873786406
+    },
+    {
+        "video_id": "Rn9OmxLDdXM",
+        "video_title": "What is Machine Learning?",
+        "published_at": "2022-09-01T12:49:02Z",
+        "thumbnail_url": "https://i.ytimg.com/vi/Rn9OmxLDdXM/default.jpg",
+        "Total comments": 29,
+        "Positive comments": 48.275862068965516,
+        "Neutral comments": 41.37931034482759,
+        "Negative comments": 10.344827586206897
+    }
+]

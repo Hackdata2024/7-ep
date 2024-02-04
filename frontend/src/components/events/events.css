@@ -1,0 +1,35 @@
+#locate > div, .btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#locate > div {
+    background: var(--brand-02);
+    flex-direction: column;
+    padding: 80px 0;
+    border-radius: 12px;
+    box-shadow: var(--card-shadow);
+    transition: var(--hover-timing);
+    cursor: pointer;
+}
+
+#locate > div:hover {
+    box-shadow: var(--card-hover);
+}
+
+#locate h2 {
+    margin-top: 0;
+}
+
+#locate p {
+    line-height: 1.5;
+    margin-bottom: 40px;
+    width: 50%;
+    text-align: center;
+}
+
+.btn-group {
+    flex-direction: row;
+    grid-gap: 16px;
+}
