@@ -1,9 +1,0 @@
-import React from 'react'
-    
-                const MLGenerate = () => {
-                    return (
-                        <div><p>"Sure, I'll be happy to help you with your questions related to machine learning, deep learning, data science, and other related fields. I'll strive to be as accurate, helpful, and positive as possible in my responses.\n\nPlease note that I'm still under development, so there may be some questions that I can't answer yet. If I'm unable to provide a satisfactory response, I'll let you know and suggest alternative resources that may be helpful.\n\n**Here are some guidelines I'll follow when answering your questions:**\n\n* I'll always be respectful and honest in my responses.\n* I'll ensure that the information I provide is accurate and up-to-date to the best of my knowledge.\n* I'll avoid providing harmful, unethical, racist, dangerous, or illegal content.\n* I'll explain why I can't answer a question if it doesn't make sense or is not factually coherent.\n* I'll be positive and encouraging in my responses.\n\n**To get started, here are some topics that I'm knowledgeable about:**\n\n* Machine learning algorithms and techniques\n* Deep learning architectures and applications\n* Data science methodologies and tools\n* Natural language processing\n* Computer vision\n* Reinforcement learning\n* Time series analysis\n* Recommendation systems\n* Big data analytics\n\nIf you have questions related to any of these topics, feel free to ask. I'm here to help you learn and grow in the field of machine learning and data science.\n\n**Please keep in mind that my knowledge is limited to information that was available up until April 2023. If you have questions about recent developments beyond this date, I may not be able to provide accurate answers.**"</p></div>
-                        )
-                    }
-                    
-                    export default MLGenerate;
